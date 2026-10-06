@@ -159027,7 +159027,7 @@ p=A.cT(m,m,A.bH(q?B.i6:B.q6,m,m,m,m),m,m,m,new A.bs0(n),m,m,m,m,m)
 q=A.cB(!1,n.f,A.fP(m,new A.hL(4,A.eB(12),B.jV),m,m,m,m,m,m,!0,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,"Password",!0,!0,!1,m,B.agJ,m,m,m,m,m,m,p,m,m,m,m,m),m,m,m,m,m,m,m,1,q,m,m,m,m,!1,m,new A.bs1())
 p=n.r?m:n.gb13()
 o=A.cM(m,m,B.bp,m,m,m,m,m,m,B.x,m,m,m,m,new A.fj(A.eB(12),B.S),m,m,m,m,m)
-return A.hr(m,m,A.ao(m,A.fa(A.hs(new A.av(B.ec,A.dq(A.ao(m,A.p7(m,A.aO(A.b([j,B.V,i,B.bk,s,B.fT,r,B.V,q,B.cx,A.ci(A.ew(n.r?B.YE:B.bv3,p,o),48,1/0),B.V,A.E("Version: V- 1.1.3 (01-10-2026)"+A.bXL(),m,m,m,m,A.be(m,m,B.c0,m,m,m,m,m,m,m,m,12,m,m,m,m,m,!0,m,m,m,m,m,m,m,m),m,m,m)],t.p),B.G,B.w,B.aI),n.d),B.A,m,B.a1z,m,m,m,m,m,B.pC,m,m,m),m,m,8,m,new A.fj(k,B.S)),m),m,B.ae,m,m,m,B.a8),m,m),B.A,m,m,new A.c3(m,m,m,m,m,new A.mm(B.dq,B.oB,B.en,l,m,m),B.ao),m,m,m,m,m,m,m,m),m,m)}}
+return A.hr(m,m,A.ao(m,A.fa(A.hs(new A.av(B.ec,A.dq(A.ao(m,A.p7(m,A.aO(A.b([j,B.V,i,B.bk,s,B.fT,r,B.V,q,B.cx,A.ci(A.ew(n.r?B.YE:B.bv3,p,o),48,1/0),B.V,A.E("Version: V- 1.1.4 (06-10-2026)"+A.bXL(),m,m,m,m,A.be(m,m,B.c0,m,m,m,m,m,m,m,m,12,m,m,m,m,m,!0,m,m,m,m,m,m,m,m),m,m,m)],t.p),B.G,B.w,B.aI),n.d),B.A,m,B.a1z,m,m,m,m,m,B.pC,m,m,m),m,m,8,m,new A.fj(k,B.S)),m),m,B.ae,m,m,m,B.a8),m,m),B.A,m,m,new A.c3(m,m,m,m,m,new A.mm(B.dq,B.oB,B.en,l,m,m),B.ao),m,m,m,m,m,m,m,m),m,m)}}
 A.brX.prototype={
 $0(){this.a.r=!0},
 $S:0}
@@ -162581,7 +162581,7 @@ L(a){var s,r=this,q=null,p=A.ap(a,!0,t.d).b,o=A.b([B.bp,B.iQ],t.t_),n=p==null,m=
 m=A.fR(q,q,q,q,q,q,q,q,q,B.btn,m==null?"User":m)
 n=n?q:p.d
 s=t.p
-n=A.hs(A.aO(A.b([B.a4V,B.bk,A.b1i(q,q,q,B.cH,q,q,!0,q,A.fR(A.b([m,A.fR(q,q,q,q,q,q,q,q,q,B.brA," ("+(n==null?"User":n)+")")],t.VO),q,q,q,q,q,q,q,q,q,q),B.bt,q,q,B.bh,B.bJ),B.bmV,B.bu0,B.YG,A.E("Version: V- 1.1.3 (01-10-2026)"+A.bXL(),q,q,q,q,B.bpQ,q,q,q)],s),B.a6,B.kT,B.y),q,B.ae,q,q,B.jl,B.a8)
+n=A.hs(A.aO(A.b([B.a4V,B.bk,A.b1i(q,q,q,B.cH,q,q,!0,q,A.fR(A.b([m,A.fR(q,q,q,q,q,q,q,q,q,B.brA," ("+(n==null?"User":n)+")")],t.VO),q,q,q,q,q,q,q,q,q,q),B.bt,q,q,B.bh,B.bJ),B.bmV,B.bu0,B.YG,A.E("Version: V- 1.1.4 (06-10-2026)"+A.bXL(),q,q,q,q,B.bpQ,q,q,q)],s),B.a6,B.kT,B.y),q,B.ae,q,q,B.jl,B.a8)
 m=A.b([r.re(a,B.Gz,"/dashboard","Analytics & Overview","Dashboard"),B.pt,new A.av(B.pB,A.E("Transactions".toUpperCase(),q,q,q,q,B.Bs,q,q,q),q)],s)
 m.push(r.re(a,B.eS,"/daily-settlements","Wholesale Shop","Daily Settlements"))
 m.push(r.re(a,B.i5,"/individual-payments","Organiser Tracking","Individual Payments"))
